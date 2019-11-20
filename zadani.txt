@@ -1,0 +1,10 @@
+	Jako ukol semestralni prace bylo vybrano napsani jednoduche strileci hry pro prikazovou radku UNIX.
+Postava hrace (znak "i") bude pomoci klaves na klavesnici pohybovat na mape sestavene z nepohyblivych (znak "#")
+a pohyblivych (znak "@") bloku. Silne a slabe nepratele (znaky "E" a "e") se taky muzou pohybovat: silne vodorovne
+a slabe svisle. Pokud se hrac dotkne nepritele, ztraci jeden zivot (na startu ma 3 zivoty). Zivoty muzou byt
+nalezeny na mape (znak "+"). Hrac muze strilet a tim zpusobem zabijet nepratele. Silne nepratele se likviduji
+dvema vystrely, slabe jednym. Na zacatku hry hrac ma pet kulek, dalsi muze taky najit behem hry. Kazda jednotka
+munice (znak "A") ma v sobe pet dalsich kulek. Po smrti nepratele se na mape muze objevit zesilujici hrace jednotka
+- Power Up (znaky "=" a '-'). Power Upy jsou dvou typu: "Double Damage" (jedna kulka zabije silneho nepratele) a
+"Immunity" (imunita pred dotykem s nepratelem). Po smrti nepratele se na mape taky muze objevit dalsi zivot nebo
+munice ze tri kulek. Cilem hry je zabit vsechny nepratele.
