@@ -1,7 +1,7 @@
 # PA2_semestral_work
 This repo contains my C++ semestral work for the BI-PA2 subject.
 
-This was my first attempt to create a game. And it is not perfect :)
+This was my first attempt to create a console game. The rules for the game are written in the zadani.txt file in Czech language.
 
 -----------------------------------
 
